@@ -2,8 +2,7 @@
 
 
 <p align="center">
-  An ML-powered system that automatically scores, ranks, and analyzes candidates against specific job roles — using 
-  TF-IDF vectorization, cosine similarity, and a dynamic spaCy NLP skill extraction pipeline.
+  An ML-powered system that automatically scores, ranks, and analyzes candidates against specific job roles — using TF-IDF vectorization, cosine similarity, and a dynamic spaCy NLP skill extraction pipeline.
 </p>
 
 ---
